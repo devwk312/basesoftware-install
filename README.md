@@ -1,4 +1,4 @@
-## Afrerinstallation script
+## After installation script
 
 This scrit helps you to link EPEL Repository to your new server and install base programs:
 
