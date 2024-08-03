@@ -1,4 +1,4 @@
-h2 Afrerinstallation script
+## Afrerinstallation script
 
 This scrit helps you to link EPEL Repository to your new server and install base programs:
 
